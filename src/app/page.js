@@ -10,8 +10,8 @@ export default function Home() {
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="relative z-10 text-center ">
-          <h1 className="text-6xl font-bold text-blue-500 ">Hello! I'm Chheanyun</h1>
-          <p className="text-2xl">I'm an engineering of Robotics and Automation,but focused only on Programming.</p>
+          <h1 className="text-6xl font-bold text-blue-500 ">Hello! I&apos;m Chheanyun</h1>
+          <p className="text-2xl">I&apos;m an engineering of Robotics and Automation,but focused only on Programming.</p>
         </div>
         
       </div>
