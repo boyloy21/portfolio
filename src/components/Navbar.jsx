@@ -4,7 +4,8 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 
 export default function Navbar() {
-    const isActive = (path) =>  usePathname() === path;
+    const pathname = usePathname();
+    const isActive = (path) =>  pathname === path;
     return (
         <nav className="bg-zinc-600 p-6 w-full">
             <div className="container flex flex-row justify-between">
