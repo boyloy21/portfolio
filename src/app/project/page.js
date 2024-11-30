@@ -60,7 +60,7 @@ export default function Projects() {
             <hr className="border-2 border-green-600 mt-2 mr-4"></hr>
             <div className="py-8">
                 <h1 className="text-4xl text-green-600 font-bold">Fourth Project: ROBOCON-IT01 2023-2024 </h1>
-                <h1 className="text-3xl py-4">I focus on Programming on MR1 and MR2 for ROBOCON-IT01 and I'm leading on part programming in this project</h1>
+                <h1 className="text-3xl py-4">I focus on Programming on MR1 and MR2 for ROBOCON-IT01 and I&apos;m leading on part programming in this project</h1>
                 <ul className="list-disc list-inside ml-6 space-y-2 py-4 text-2xl">
                     <li>Time : (12/2023 - 07/2024)</li>
                     <li>MR1 robot is semi-autonomous and MR2 robot is fully-autonomous</li>
